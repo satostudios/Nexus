@@ -63,7 +63,7 @@ Esse aviso azul aparece com programas novos que ainda não têm assinatura digit
 <table>
   <tr>
     <td width="50%" valign="top"><img src="docs/midia/icones/hoje.svg" width="44" align="left" alt="">&nbsp;<b>Hoje</b><br>&nbsp;O dia inteiro numa tela: hábitos, agenda, tarefas, metas e o diário.</td>
-    <td width="50%" valign="top"><img src="docs/midia/icones/tarefas.svg" width="44" align="left" alt="">&nbsp;<b>Tarefas</b><br>&nbsp;Escreva "pagar luz sexta 10h" e o prazo entra sozinho. Lista ou quadro, com repetição.</td>
+    <td width="50%" valign="top"><img src="docs/midia/icones/tarefas.svg" width="44" align="left" alt="">&nbsp;<b>Tarefas</b><br>&nbsp;Escreva "pagar luz sexta 10h" e o prazo entra sozinho. Lista ou quadro, com repetição. As concluídas saem sozinhas 24h depois.</td>
   </tr>
   <tr>
     <td valign="top"><img src="docs/midia/icones/agenda.svg" width="44" align="left" alt="">&nbsp;<b>Agenda</b><br>&nbsp;Mês, semana e dia, com compromissos, prazos e hábitos com horário.</td>
@@ -150,6 +150,15 @@ Sim. Não custa nada, não tem anúncio, não pede cartão e não expira.
 <br>
 
 Numa pasta que você escolhe (o Vault), em arquivos de texto comuns (Markdown). Dá para abrir em qualquer editor. Para usar em mais de um computador, coloque essa pasta no OneDrive, Google Drive ou Dropbox.
+
+</details>
+
+<details>
+<summary><b>Uma tarefa concluída sumiu. Cadê ela?</b></summary>
+
+<br>
+
+Para a lista ficar limpa, toda tarefa concluída sai sozinha 24h depois de você marcar como feita. Ela vai para a **Lixeira** do Windows, então dá para recuperar de lá. Tarefas que se repetem (todo dia, toda semana…) nunca saem, e as metas de "tarefas da semana" continuam contando as que já saíram.
 
 </details>
 
